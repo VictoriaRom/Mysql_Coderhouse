@@ -2,7 +2,8 @@
 Proyecto Final de MySQL en Coderhouse.
 
 LIBRERIA ONLINE
-Razones por las cuales un tema de proyecto de base de datos para una librería online puede ser una buena opción:
+
+Tema de proyecto de base de datos para una librería online:
 
 •	Relevancia: Las bibliotecas en línea son una parte integral de la vida moderna y su uso está en aumento. Por lo tanto, este tema está en sintonía con los tiempos y es relevante.
 
